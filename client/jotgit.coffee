@@ -5,6 +5,7 @@
 @FileInfo = new Meteor.Collection('fileInfo')
 
 @FileOperations = new Meteor.Collection('fileOperations')
+hola bebe
 
 @FileSelections = new Meteor.Collection('fileSelections')
 
